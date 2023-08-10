@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lpdoan. People call me Phuong or Lucille (if they struggle with pronouncing my Vietnamese name)
+- 👋 Hi, I’m @lpdoan. People call me Phuong or Lucille.
 - I graduated with a MSc in Finance and Data Science, but I have realized over the years that I really like coding more than finance !
 - I'm working as an analytics intern, working on improving and refactoring some of the code in the company codebase.
 - 👀 I’m interested in improving my python skills, and still learning web apps with Shiny.
